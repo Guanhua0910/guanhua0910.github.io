@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Guanhua Xiang is a Research Assistant at the [School of Traffic and Transportation Engineering](https://www.csust.edu.cn/jtysgcxy/), [Changsha University of Science and Technology](https://www.csust.edu.cn/). His research group focuses on data-driven decision anatics; large-scale transport system modeling and optimization; multi-modal transportation network design and optimization; transportation network modeling and resilience analysis; game theory; smart mobility; connected and automated transportation; low-altitude air mobility and logistics.  
+Guanhua Xiang is a Research Assistant at the [School of Traffic and Transportation Engineering](https://www.csust.edu.cn/jtysgcxy/), [Changsha University of Science and Technology](https://www.csust.edu.cn/). His research group focuses on data-driven decision analytics; large-scale transport system modeling and optimization; multi-modal transportation network design and optimization; transportation network modeling and resilience analysis; game theory; smart mobility; connected and automated transportation; low-altitude air mobility and logistics.  
 
 You can find my CV here:[Guanhua Xiang's CV](../assets/CV.pdf)/[Email](mailto:xiangguanhua0910@gmail.com)/[Google Scholar](https://scholar.google.com/citations?user=RZYnyzQAAAAJ&hl=en)/
 [Github](https://github.com/Guanhua0910)
@@ -19,6 +19,7 @@ Multimodal Transport Network Design and Optimization
 Large-Scale Transport System Modeling and optimization  
 Transportation Network Modeling and Resilience Analysis  
 Game Theory and Smart Mobility  
+Connected and Automated Transportation
 Low-altitude Air Mobility and Logistics
 
 
