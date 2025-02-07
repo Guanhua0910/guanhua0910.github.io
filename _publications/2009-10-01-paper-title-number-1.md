@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Bike‐Sharing Static Rebalancing by Considering the Collection of Bicycles in Need of Repair"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
