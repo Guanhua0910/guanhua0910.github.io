@@ -16,7 +16,7 @@ You can find my CV here:[Guanhua Xiang's CV](../assets/CV.pdf)/[Email](mailto:xi
 Research Interests
 ======
 Multimodal Transport Network Design and Optimization  
-Large-Scale Transport System Modeling and optimization  
+Large-Scale Transport System Modeling and Optimization  
 Transportation Network Modeling and Resilience Analysis  
 Game Theory and Smart Mobility  
 Connected and Automated Transportation  
